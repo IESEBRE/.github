@@ -7,8 +7,6 @@ assignees: ''
 
 ---
 
-Task name:
-
 Short description:
 
 Subtasks list:
@@ -24,4 +22,4 @@ Type:
 
 Estimated achievement date:
 
- dd/mm/yyyy
+dd/mm/yyyy
