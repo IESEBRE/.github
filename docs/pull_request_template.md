@@ -1,10 +1,10 @@
 Description:
 
-** Add a description abaout the changes made **
+** Add a description about the changes made **
 
 Related issue/s:
 
-** Write the # + number of the issue you are terating in this pull request **
+** Write the #number of the issue you are solving in this pull request **
 
 Mention:
 
