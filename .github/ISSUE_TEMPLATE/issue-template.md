@@ -14,11 +14,11 @@ Subtasks list:
 - [ ] this is an incomplete item
 
 Type:
-- [ ] Documentation 
-- [ ] Planification
-- [ ] Coding
-- [ ] Bug fixing
-- [ ] Other...
+- Documentation 
+- Planification
+- Coding
+- Bug fixing
+- Other...
 
 Estimated achievement date:
 
